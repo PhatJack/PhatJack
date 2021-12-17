@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhatJack
-- 👀 I’m interested in design Ưebsite
+- 👀 I’m interested in design Website
 - 🌱 I’m currently learning C++ languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jackvuabongro@gmail.com
