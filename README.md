@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.tenor.com/nm5MfI8CI50AAAAi/raibow-happy.gif" width="50" height="50"/>Hi 👋, I'm Jack<img src = "https://media.tenor.com/Mdne7ccvTJMAAAAi/banana-cheerer.gif" width="50" height ="50"/></h1>
 <h3 align="center">I'm indulge in Front-End Website</h3>
-<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right">
+<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" height="400" />
 - 📫 How to reach me <--tienphatng.693@gmail.com --><br>
 
 <h3 align="left">Connect with me:</h3>
@@ -15,9 +15,9 @@
 
 <h2>More About Me </h2>
 -I'm an early 🐤 <br><br>
-🌞 Morning &ensp;    1 commits &nbsp;&nbsp;   ███████░░░░░░░░░░░░░░░░░░   &emsp;30.55% <br>
-🌆 Daytime &ensp;    5 commits &ensp;&nbsp;&nbsp;██████░░░░░░░░░░░░░░░░░░░   &emsp;25.08% <br>
-🌃 Evening &ensp;&nbsp;   8 commits   &emsp;  ██████████████░░░░░░░░░░░   &emsp;40.36% <br>
+🌞 Morning&emsp;    1 commits &nbsp;&nbsp;   ███████░░░░░░░░░░░░░░░░░░   &emsp;30.55% <br>
+🌆 Daytime &emsp;    5 commits &ensp;&nbsp;&nbsp;██████░░░░░░░░░░░░░░░░░░░   &emsp;25.08% <br>
+🌃 Evening &emsp;   8 commits   &emsp;  ██████████████░░░░░░░░░░░   &emsp;40.36% <br>
 🌙 Night &emsp;&ensp;&nbsp;     3 commits &emsp;    ██░░░░░░░░░░░░░░░░░░░░░░░   &emsp;8.36%
 <br>
 <br>
