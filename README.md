@@ -41,9 +41,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="#" target="blank" style="border-radius:50%">
-     <img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/339261002_1682484955515611_9128158014704392421_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=q7XlTfJU7YkAX_jC-d2&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfAnZjeztXE9sSmNuDcorw0n4zCyeR7uqhMe6RzgUPtKUw&oe=6437EB43" width="120" alt="jackphat-official" style="border-radius:50%"/>
-  </a>
   <a href="https://www.facebook.com/jack.willam2003/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jackphat-facebook" />
   </a>
