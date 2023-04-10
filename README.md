@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS,Tailwind and Figma**
 
-- 💬 Ask me about **html,css and js**
+- 💬 Ask me about **HTML,CSS AND JS**
 
 - 📫 How to reach me **tienphatng.693@gmail.com**
 
