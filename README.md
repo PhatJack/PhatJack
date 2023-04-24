@@ -29,10 +29,10 @@
 <br>
 <div align=center>
   <a href="#" title="Jack">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=dark)" />
+    <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatJack&layout=compact&theme=dracula&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="JackPhatdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
