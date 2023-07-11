@@ -1,6 +1,9 @@
 <!-- JackPhat -->
-<h1 align="center"><img src="https://media.tenor.com/nm5MfI8CI50AAAAi/raibow-happy.gif" width="50" height="50"/>Hi 👋, I'm Jack<img src = "https://media.tenor.com/Mdne7ccvTJMAAAAi/banana-cheerer.gif" width="50" height ="50"/></h1>
+<h1 align="center"><img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="50" height="50"/>Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
+<p align="center" >
+  <img src="https://media.tenor.com/sUhMkuLVV-gAAAAi/fly-space-ship.gif" />
+  </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
