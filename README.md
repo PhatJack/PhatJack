@@ -4,8 +4,6 @@
 <p align="center" >
   <img src="https://media.tenor.com/sUhMkuLVV-gAAAAi/fly-space-ship.gif" />
   </p>
-### Spotify Playing
-[![Spotify](https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing)](https://open.spotify.com/collection/tracks)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
