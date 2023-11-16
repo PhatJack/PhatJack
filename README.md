@@ -66,7 +66,7 @@
 
 <p>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/jack.willam2003/" target="_blank">https://www.facebook.com/jack.willam2003/</a></strong>
+  <strong>🔗 Contact with me on Facebook: <a href="https://www.facebook.com/jack.willam2003/" target="_blank">https://www.facebook.com/jack.willam2003/</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:tienphatng.693@gmail.com" target="_top">tienphatng.693@gmail.com</a></strong>
+  <strong>📧 Or Email: <a href="mailto:tienphatng.693@gmail.com" target="_top">tienphatng.693@gmail.com</a></strong>
 </p>
