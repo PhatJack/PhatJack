@@ -61,7 +61,7 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PhatJack&label=Profile%20views&color=0e75b6&style=flat" alt="jackphat" /> </p>
-
+<p align="center"> [![wakatime](https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg)](https://wakatime.com/@d6664d78-1388-4852-bd87-7a50ada7c28d) </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PhatJack&theme=onedark" alt="jackphat" /></a> </p>
 
 <p>
