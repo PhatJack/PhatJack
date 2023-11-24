@@ -46,10 +46,10 @@
   <a href="https://www.facebook.com/jack.willam2003/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jackphat-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/jackphatdev" target="blank">
+  <a href="https://www.linkedin.com/in/phat-nguyen-tien-733397286/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="jackphat-linkedin" />
   </a>
-  <a href="[https://instagram.com/trungquandev](https://www.instagram.com/thinkin_abt._u/)" target="blank">
+  <a href="https://www.instagram.com/tuila_tien_phat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jackphat-instagram" />
   </a>
   <a href="mailto:tienphatng.693@gmail.com" target="top">
