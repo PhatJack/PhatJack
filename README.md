@@ -1,8 +1,8 @@
 <!-- JackPhat -->
-<h1 align="center"><img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="50" height="50"/>Hi 👋, I'm Jack</h1>
+<h1 align="center"><img align="center" src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="40" height="40"/>Hi <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="40" height="40" />, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <p align="center" >
-  <img src="https://media.tenor.com/sUhMkuLVV-gAAAAi/fly-space-ship.gif" />
+  <img src="https://media1.tenor.com/m/K3OBpzsXzxYAAAAC/cat-nyan-cat.gif" />
   </p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
