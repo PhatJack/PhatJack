@@ -7,7 +7,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-
+<div align="center">
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-00daf8?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS logo" title="ReactJS" height="30" /></span>
@@ -31,6 +31,7 @@
 <span><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="Typescript" height="30" /></span>
+</div>
 
 <br />
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
