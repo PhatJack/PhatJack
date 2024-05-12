@@ -82,7 +82,7 @@
   <a href="https://www.linkedin.com/in/phat-nguyen-tien-733397286/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="jackphat-linkedin" />
   </a>
-  <a href="https://www.instagram.com/tuila_tien_phat/" target="blank">
+  <a href="https://www.instagram.com/sep_neit.tahp/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jackphat-instagram" />
   </a>
   <a href="mailto:tienphatng.693@gmail.com" target="top">
