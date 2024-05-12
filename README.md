@@ -8,29 +8,54 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <div align="center">
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="JavaScript logo" title="JavaScript" height="30" /></span>
+  <div>
+  <h3>📚 Frameworks, Platforms and Libraries</h3>
+    <span><img src="https://img.shields.io/badge/ReactJS-00daf8?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS logo" title="ReactJS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-00daf8?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS logo" title="ReactJS" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS logo" title="NextJS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ReactJS logo" title="Javascript" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS logo" title="Javascript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/Framer-007ACC?style=for-the-badge&logo=Framer&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" title="Git" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
+  </div>
+  <div>
+     <h3>📋 Languages</h3>
+    <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="Typescript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Framer-007ACC?style=for-the-badge&logo=Framer&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
+<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="ReactJS logo" title="Javascript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
+    <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="Typescript" height="30" /></span>
+  </div>
+<div>
+  <h3>☁️ Hosting</h3>
+  <span><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="30" /></span>
+&nbsp;
+    <span><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify logo" title="Netlify" height="30" /></span>
+&nbsp;
+   <span><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages logo" title="Github Pages" height="30" /></span>
+&nbsp;
+   <span><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase logo" title="Firebase" height="30" /></span>
+&nbsp;
+</div>
+  <div>
+    <h3>💻 IDEs/Editors</h3>
+    <span><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen logo" title="CodePen" height="30" /></span>
+&nbsp;
+    <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
+&nbsp;
+    <span><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase logo" title="Firebase" height="30" /></span>
+&nbsp;
+  </div>
 </div>
 
 <br />
