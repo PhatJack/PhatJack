@@ -35,6 +35,8 @@
 &nbsp;
     <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" /></span>
 &nbsp;
+    <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" /></span>
+&nbsp;
   </div>
 <div>
   <h3>☁️ Hosting</h3>
