@@ -2,7 +2,7 @@
 <h1 align="center"><img align="center" src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="40" height="40"/>Hi <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="40" height="40" />, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <p align="center" >
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM2Z25ubDdibTI1YTZ1bTM2ZjllZnVjdm12M3huMTlscGFhMHl4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+  <img src="https://c.tenor.com/6sVu6Qhd_moAAAAi/raise-hand-raise-idea.gif" />
   </p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
