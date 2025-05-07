@@ -104,5 +104,5 @@
   <br>
   <strong>🔗 Contact with me on Facebook: <a href="https://www.facebook.com/jack.willam2003/" target="_blank">Jack Phát</a></strong>
   <br>
-  <strong>📧 Or Email: <a href="mailto:tienphatng.693@gmail.com" target="_top">tienphatng.693@gmail.com</a></strong>
+  <strong>📧 Or Email: <a href="mailto:tienphat.ng693@gmail.com" target="_top">tienphat.ng693@gmail.com</a></strong>
 </p>
