@@ -1,108 +1,106 @@
-<!-- JackPhat -->
-<h1 align="center"><img align="center" src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="40" height="40"/>Hi <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="40" height="40" />, I'm Jack</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
-<p align="center" >
-  <img src="https://c.tenor.com/6sVu6Qhd_moAAAAi/raise-hand-raise-idea.gif" />
-  </p>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
+<!-- JackPhat | Future Tech Engineer -->
+
 <div align="center">
-  <div>
-  <h3>📚 Frameworks, Platforms and Libraries</h3>
-    <span><img src="https://img.shields.io/badge/ReactJS-00daf8?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS logo" title="ReactJS" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS logo" title="NextJS" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS logo" title="Javascript" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/Framer-007ACC?style=for-the-badge&logo=Framer&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="VSCode logo" title="VSCode" height="30" /></span>
-&nbsp;
-  </div>
-  <div>
-     <h3>📋 Languages & HyperText</h3>
-    <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="Typescript" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="ReactJS logo" title="Javascript" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" /></span>
-&nbsp;
-  </div>
-<div>
-  <h3>☁️ Hosting</h3>
-  <span><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify logo" title="Netlify" height="30" /></span>
-&nbsp;
-   <span><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages logo" title="Github Pages" height="30" /></span>
-&nbsp;
-   <span><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase logo" title="Firebase" height="30" /></span>
-&nbsp;
-</div>
-  <div>
-    <h3>💻 IDEs/Editors</h3>
-    <span><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen logo" title="CodePen" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
-&nbsp;
-    <span><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase logo" title="Firebase" height="30" /></span>
-&nbsp;
-  </div>
+  
+  # ⚡️ JACK PHAT ⚡️
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Tech+Enthusiast;NextJS+Amateur)
+  
+  ### 🇻🇳 Building Tomorrow's Web Today 🇻🇳
+  
+  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="280" alt="Coding Animation" />
 </div>
 
-<br />
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Jack">
-    <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatJack&layout=compact&theme=dracula&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="JackPhatdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-  </a>
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhatJack&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="85%">
 </div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/jack.willam2003/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jackphat-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/phat-nguyen-tien-733397286/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="jackphat-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/sep_neit.tahp/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jackphat-instagram" />
-  </a>
-  <a href="mailto:tienphatng.693@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jackphat-email" />
-  </a>
-</div>
- 
-<br>
-<br>
-<div align="center">
-<span align="center"> <img src="https://komarev.com/ghpvc/?username=PhatJack&label=Profile%20views&color=0e75b6&style=flat" alt="jackphat" /> </span>
-<span><img src="https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg" alt="wakatime" /></span>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PhatJack&theme=onedark" alt="jackphat" /></a> </p>
+## 🌠 Tech Multiverse
 
-<p>
-  <br>
-  <strong>🔗 Contact with me on Facebook: <a href="https://www.facebook.com/jack.willam2003/" target="_blank">Jack Phát</a></strong>
-  <br>
-  <strong>📧 Or Email: <a href="mailto:tienphat.ng693@gmail.com" target="_top">tienphat.ng693@gmail.com</a></strong>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend Dimension</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,astro,typescript,tailwind,sass" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,vite" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools Dimension</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,github,git,vercel,netlify,firebase" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=figma,ai,ps,codepen" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Learning Dimension</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,blender,graphql,nestjs" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=redux,docker,remix" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+  ## 📊 Coding Matrix
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatJack&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatJack&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PhatJack&theme=nord&no-frame=true&row=1&column=4" alt="Trophies" width="45%" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🔮 Projects Portal
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=ztudy-fe&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PhatJack/project-react-ecommerce)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=flower-delivery&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PhatJack/portfolio)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🌌 Hyperspace Connections
+  
+  <a href="https://www.facebook.com/jack.willam2003/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/phat-nguyen-tien-733397286/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.instagram.com/sep_neit.tahp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32" />
+  </a>
+  <a href="mailto:tienphat.ng693@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+  </a>
+  <a href="https://codepen.io/PhatJack" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" height="32" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhatJack&style=for-the-badge&color=61DAFB" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg?style=for-the-badge" alt="WakaTime" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=120&section=footer" width="100%">
+</div>
