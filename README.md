@@ -65,13 +65,40 @@
 ---
 
 <div align="center">
-  
-  ## 🔮 Projects Portal
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=ztudy-fe&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PhatJack/ztudy-fe)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=flower-delivery&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PhatJack/flower-delivery)
-  
+
+## ⌚ Wakatime Stats
+
+![JackPhat's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackphat&theme=tokyonight&layout=compact)
 </div>
+
+---
+
+<div align="center">
+
+  ## 🔮 Projects Portal
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/PhatJack/ztudy-fe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=ztudy-fe&theme=react&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PhatJack/flower-delivery">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=flower-delivery&theme=react&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PhatJack/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
