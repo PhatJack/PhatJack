@@ -77,25 +77,32 @@
 
   ## 🔮 Projects Portal
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/PhatJack/ztudy-fe">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=ztudy-fe&theme=react&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PhatJack/flower-delivery">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=flower-delivery&theme=react&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PhatJack/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/PhatJack/ztudy-fe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=ztudy-fe&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PhatJack/flower-delivery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=flower-delivery&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/PhatJack/animation.phatjack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=animation.phatjack&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PhatJack/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatJack&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
