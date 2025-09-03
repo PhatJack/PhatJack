@@ -71,9 +71,9 @@
 ![JackPhat's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackphat&theme=tokyonight&layout=compact)
 </div>
 
----
+<!-- --- -->
 
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+<!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
 
 ---
 
