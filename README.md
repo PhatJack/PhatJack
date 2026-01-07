@@ -53,13 +53,12 @@
 <div align="center">
   
   ## 📊 Coding Matrix
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatJack&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
+  [![GitHub Streak](https://github-readme-streak-stats-six-self.vercel.app?user=PhatJack&theme=tokyonight)](https://git.io/streak-stats)
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatJack&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
   <img src="https://github-profile-trophy.vercel.app/?username=PhatJack&theme=nord&no-frame=true&row=1&column=4" alt="Trophies" width="45%" />
-
+-->
 </div>
 
 ---
