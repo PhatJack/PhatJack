@@ -4,7 +4,7 @@
   
   # ⚡️ JACK PHAT ⚡️
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Tech+Enthusiast;NextJS+Amateur)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Frontend+Engineer;Tech+Enthusiast;GSAP+Lover;Framer+motion)
   
   ### 🇻🇳 Building Tomorrow's Web Today 🇻🇳
   
