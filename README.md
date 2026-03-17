@@ -1,107 +1,61 @@
-<!-- JackPhat | Future Tech Engineer -->
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ whoami
+```
 
-<div align="center">
-  
-  # ⚡️ JACK PHAT ⚡️
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Frontend+Engineer;Tech+Enthusiast;GSAP+Lover;Framer+motion)
-  
-  ### 🇻🇳 Building Tomorrow's Web Today 🇻🇳
-  
-  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="280" alt="Coding Animation" />
-</div>
+```
+  ╔══════════════════════════════════════════╗
+  ║         Jack Phat — Frontend Engineer    ║
+  ╚══════════════════════════════════════════╝
+```
 
----
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ cat stack.md
+```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhatJack&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="85%">
-</div>
+**core**
 
-## 🌠 Tech Multiverse
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Core UI](https://img.shields.io/badge/Core_UI-9B4DCA?style=flat-square&logo=coreui&logoColor=white)
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend Dimension</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,astro,typescript,tailwind,sass" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,vite" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools Dimension</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,github,git,vercel,netlify,firebase" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=figma,ai,ps,codepen" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Learning Dimension</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,blender,graphql,nestjs" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=redux,docker,remix" />
-      </div>
-    </td>
-  </tr>
-</table>
+**animation**
 
----
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<div align="center">
-  
-  ## 📊 Coding Matrix
-  [![GitHub Streak](https://github-readme-streak-stats-six-self.vercel.app?user=PhatJack&theme=tokyonight)](https://git.io/streak-stats)
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=PhatJack&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatJack&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PhatJack&theme=nord&no-frame=true&row=1&column=4" alt="Trophies" width="45%" />
--->
-</div>
+**tooling**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**exploring**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ cat activity.log
+```
 
 <div align="center">
 
-## ⌚ Wakatime Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jackphat&theme=tokyonight&layout=compact)
 
-![JackPhat's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackphat&theme=tokyonight&layout=compact)
 </div>
 
-<!-- --- -->
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ cat contacts.txt
+```
 
-<!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
+```
+  LinkedIn  →  https://www.linkedin.com/in/phat-nguyen-tien-733397286/
+  CodePen   →  https://codepen.io/PhatJack
+  Facebook  →  https://www.facebook.com/jack.willam2003/
+  Email     →  tienphat.ng693@gmail.com
+```
 
----
+> [LinkedIn](https://www.linkedin.com/in/phat-nguyen-tien-733397286/) · [CodePen](https://codepen.io/PhatJack) · [Facebook](https://www.facebook.com/jack.willam2003/) · [tienphat.ng693@gmail.com](mailto:tienphat.ng693@gmail.com)
 
-<div align="center">
-  
-  ## 🌌 Hyperspace Connections
-  
-  <a href="https://www.facebook.com/jack.willam2003/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/phat-nguyen-tien-733397286/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-  </a>
-  <a href="https://www.instagram.com/sep_neit.tahp/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32" />
-  </a>
-  <a href="mailto:tienphat.ng693@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-  </a>
-  <a href="https://codepen.io/PhatJack" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" height="32" />
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhatJack&style=for-the-badge&color=61DAFB" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg?style=for-the-badge" alt="WakaTime" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=120&section=footer" width="100%">
-</div>
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ █
+```
