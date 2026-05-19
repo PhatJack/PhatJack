@@ -61,5 +61,11 @@
 
 ```bash
 ┌──(jackphat㉿github)-[~]
-└─$ █
+└─$ █  Total Wakatime
+```
+[![wakatime](https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg)](https://wakatime.com/@d6664d78-1388-4852-bd87-7a50ada7c28d)
+
+```bash
+┌──(jackphat㉿github)-[~]
+└─$ █ 
 ```
