@@ -61,9 +61,10 @@
 
 ```bash
 ┌──(jackphat㉿github)-[~]
-└─$ █  Total Wakatime
+└─$ █  Total Wakatime and Github profile view
 ```
 [![wakatime](https://wakatime.com/badge/user/d6664d78-1388-4852-bd87-7a50ada7c28d.svg)](https://wakatime.com/@d6664d78-1388-4852-bd87-7a50ada7c28d)
+![Profile views](https://komarev.com/ghpvc/?username=PhatJack&label=Profile%20views&color=0e75b6&style=flat)
 
 ```bash
 ┌──(jackphat㉿github)-[~]
